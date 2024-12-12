@@ -38,14 +38,4 @@ int main () {
 
 
 
-    /*
-
-for (int i =0;i<4;i++) {
-    printf("\n tab[%d]=%d",i,tab[i]);
-}
-
-    printf("\n la valeur de la deuxieme case est  : %d",tab[0]);
-    printf("\n la valeur de la deuxieme case est  : %d",tab[3]);
-*/
-
 
