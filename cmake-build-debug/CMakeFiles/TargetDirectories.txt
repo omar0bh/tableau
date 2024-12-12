@@ -1,0 +1,3 @@
+C:/Users/DELL LATITUDE/OneDrive/سطح المكتب/tableau_ex/cmake-build-debug/CMakeFiles/tableau_ex.dir
+C:/Users/DELL LATITUDE/OneDrive/سطح المكتب/tableau_ex/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL LATITUDE/OneDrive/سطح المكتب/tableau_ex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
